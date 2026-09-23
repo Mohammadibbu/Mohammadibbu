@@ -28,7 +28,7 @@
 ## 🚀 About Me
 
 ```javascript
-const ibrahim = {
+const Muhamedibrahim = {
     role: "Full Stack Developer",
     location: "India 🇮🇳",
 
